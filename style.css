@@ -1,0 +1,49 @@
+/* Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif; 
+    overflow-x: hidden;
+}
+/* Nav Bar  */
+.log-in{
+    margin-right: 6.25rem;
+}
+.bg-custom{
+    background-color: #264653;
+}
+/* Header Banner  */
+.custom-padding{
+    padding: 6.7rem;
+}
+.header-intro{
+    font-size: 48px;
+}
+.btn-custom{
+    background-color: #E76F51;
+}
+.header-img{
+    width: 100%;
+}
+/* Featured Bikes */
+.text-color{
+    color: #E76F51;
+}
+hr{
+    border: 1px solid #E76F51;
+    width: 58.5px;
+    margin-left: 525px;
+}
+.fetured-black-white{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+/* Happy Clients  */
+.clients-img-padding{
+    padding: 35px;
+}
+.fa-star.filled{
+    color: #E76F51;
+}
+.fa-star.empty{
+    color: #E76F51;
+}
